@@ -1,0 +1,13 @@
+20000 0 0 117500 
+0.00002 0.00002 0.0002 0.000000 0.0003 0.0003
+0.0001 0.0001 0.0002 0.00007
+0.0001 0.00003 0.00000 0.00003
+0.000009 0.000012 0.000009 0.000001
+
+
+
+& tmax, &t3D, &ttime, &t_ext, 
+&g_GABA_A, &g_GABA_A1, &g_GABA_B, &g_GABA_B_RE_RE, &g_AMPA, &g_AMPA1,
+&g_AMPA_CX_CX, &g_AMPA_CX_TC, &g_AMPA_CX_RE, &g_AMPA_TC_CX, 
+&g_AMPA_CX_IN, &g_GABA_A_IN_CX, &g_GABA_B_IN_CX, &g_AMPA_TC_IN,  
+&g_Extern_ampa1, &g_Extern_ampa2, &g_Extern_ampa3, &g_Extern_ampa4,
